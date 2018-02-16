@@ -1,7 +1,7 @@
 # Write your code here.
 
-def batch_badge_creator(speakers)
-  speakers.each do |name|
+def batch_badge_creator(attendees)
+  attendees.each do |name|
     puts "Hello, my name is #{name}"
   end
 end
